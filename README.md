@@ -6,7 +6,7 @@ Junior Data Scientist
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [elmekkihafsa@gmail.com](mailto:elmekkihafsa@gmail.com)
-* 🤝  I'm open to collaborating on Machine Learning, Web development
+* 🤝  I'm open to collaborating on Machine Learning, Data Analytics
 
 ### Skills
 
